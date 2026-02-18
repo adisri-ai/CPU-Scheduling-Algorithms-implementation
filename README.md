@@ -1,4 +1,4 @@
-# Overview  
+# CPU Scheduling Algorithms 
 CPU scheduling algorithms are used for scheduling various processes in an Operating Systems that performs more than one task at a time.  
 The are important for the following reasons:  
 1. Improve CPU utilization.
